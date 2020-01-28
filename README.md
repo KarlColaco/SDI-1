@@ -1,3 +1,4 @@
+#Contribution Guide
 # Contributing
 
 When contributing to the repository please ensure you announce you are using the repo via whatsapp to the rest of the group
