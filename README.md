@@ -45,8 +45,11 @@ Please read the code of conduct below and follow it with all your interactions t
                 }
 - If anything requires you to highlight a specific piece of code in your description please put
     /// ###Example
+    
     /// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.cpp
+    
     /// int a = 16;
+    
     /// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.cpp
 
 
